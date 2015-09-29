@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg"
+    tools:context="${packageName}.${activityClass}" >
+
+    <ListView 
+        android:id="@+id/lv_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:overScrollMode="never"
+        android:scrollbars="none"
+	    android:cacheColorHint="#00000000"
+        android:listSelector="@drawable/list_item_selector"
+        android:divider="@color/common_line_list"
+        android:dividerHeight="1px"/>
+
+</RelativeLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="common_bg">#f2f6f7</color>
+
+    <color name="common_text_dark">#000000</color>
+    <color name="common_text_light">#808080</color>
+    <color name="common_line">#868686</color>
+    <color name="common_line_list">#cfcfcf</color>
+    
+    <!-- 灰色 -->
+    <color name="gray">#808080</color>
+
+    <!-- 橘黄色 -->
+    <color name="orange">#ffab25</color>
+
+    <!-- 绿色 -->
+    <color name="green">#98d1a6</color>
+
+    <!-- 蓝色 -->
+    <color name="blue">#73A7F0</color>
+
+    <!-- 红色 -->
+    <color name="red">#e99e64</color>
+
+    <!-- 黄色 -->
+    <color name="yellow">#FFB000</color>
+    
+    <!-- 粉红 -->
+    <color name="pink">#ff33ff</color>
+
+</resources>
